@@ -1,0 +1,50 @@
+Terms of Service
+
+These Terms of Service ("Agreement") govern your use of the [Test App Name] ("App") provided by [Your Company Name] ("Company"). By accessing or using the App, you agree to be bound by this Agreement. If you do not agree with any part of this Agreement, you must not use the App.
+
+1. App Usage
+
+1.1 Eligibility: You must be at least 13 years old to use the App. By using the App, you represent and warrant that you are at least 13 years old.
+
+1.2 License: Subject to your compliance with this Agreement, the Company grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes.
+
+1.3 Prohibited Activities: You agree not to engage in any of the following activities while using the App:
+   a) Violating any applicable laws or regulations;
+   b) Infringing upon the intellectual property rights of others;
+   c) Uploading, transmitting, or distributing any harmful, offensive, or illegal content;
+   d) Interfering with or disrupting the App's functionality or security;
+   e) Attempting to gain unauthorized access to any part of the App or its related systems.
+
+2. Intellectual Property
+
+2.1 Ownership: The App and all its content, including but not limited to text, graphics, logos, and software, are the property of the Company and are protected by intellectual property laws.
+
+2.2 User Content: By using the App, you grant the Company a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, and distribute any content you upload or transmit through the App.
+
+3. Privacy
+
+3.1 Data Collection: The Company may collect and process personal information as described in the Privacy Policy, which is incorporated into this Agreement by reference.
+
+3.2 Cookies: The App may use cookies or similar technologies to enhance user experience. By using the App, you consent to the use of cookies in accordance with the Privacy Policy.
+
+4. Disclaimer of Warranties
+
+4.1 The App is provided on an "as is" and "as available" basis. The Company makes no warranties or representations, express or implied, regarding the App's accuracy, reliability, or suitability for any purpose.
+
+4.2 The Company does not guarantee that the App will be error-free, uninterrupted, or free from viruses or other harmful components. You acknowledge that your use of the App is at your own risk.
+
+5. Limitation of Liability
+
+5.1 To the maximum extent permitted by applicable law, the Company shall not be liable for any indirect, incidental, consequential, or punitive damages arising out of or in connection with the use or inability to use the App.
+
+6. Termination
+
+6.1 The Company reserves the right to suspend or terminate your access to the App at any time, without prior notice or liability, for any reason, including but not limited to a breach of this Agreement.
+
+7. Governing Law
+
+7.1 This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.
+
+8. Changes to the Agreement
+
+8.1 The Company reserves the right to modify or replace this Agreement at any time. Your continued use of the App after any such changes constitutes your acceptance of the modified Agreement.
